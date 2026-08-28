@@ -1,0 +1,568 @@
+﻿Industry,2022 NAICS Code,Dec. 2024 hourly,Oct. 2025 hourly,Nov. 2025 hourly (p),Dec. 2025 hourly (p),Dec. 2024 weekly,Oct. 2025 weekly,Nov. 2025 weekly (p),Dec. 2025 weekly (p)
+Total private,,35.68,36.81,36.9,37.02,1220.26,1258.9,1265.67,1266.08
+,,,,,,,,,
+Goods-producing,,36.36,37.6,37.69,37.85,1443.49,1492.72,1503.83,1502.65
+,,,,,,,,,
+Mining and logging,,39.95,40.7,40.54,40.87,1769.79,1835.57,1828.35,1839.15
+Logging(1),1133,30.63,29.52,29.7,-,1292.59,1236.89,1244.43,-
+"Mining, quarrying, and oil and gas extraction(1)",21,40.53,41.38,41.35,-,1787.37,1870.38,1873.16,-
+Oil and gas extraction(1),211,48.2,50.24,50.15,-,1961.74,2014.62,2016.03,-
+Mining (except oil and gas)(1),212,37.46,38.38,38.59,-,1655.73,1742.45,1748.13,-
+Nonmetallic mineral mining and quarrying(1),2123,33.1,34.69,34.75,-,1486.19,1571.46,1577.65,-
+Stone mining and quarrying(1),21231,31.11,33.29,33.52,-,1381.28,1491.39,1501.7,-
+Crushed and broken limestone mining and quarrying(1),212312,32.68,34.93,34.86,-,1477.14,1606.78,1607.05,-
+"Dimension stone, crushed and broken granite, and other crushed and broken stone mining and quarrying(1)","212311,3,9",29.44,31.33,31.78,-,1283.58,1365.99,1372.9,-
+Other nonmetallic mineral mining and quarrying(1),21239,40.99,42.09,42.6,-,1627.3,1654.14,1699.74,-
+Support activities for mining(1),213,39.43,39.97,39.79,-,1798.01,1898.58,1886.05,-
+Support activities for oil and gas operations(1),213112,39.04,39.36,39.28,-,1823.17,1944.38,1924.72,-
+,,,,,,,,,
+Construction,23,38.94,40.12,40.23,40.37,1510.87,1556.66,1577.02,1570.39
+Construction of buildings(1),236,41.66,42.74,42.59,-,1566.42,1615.57,1622.68,-
+Residential building construction(1),2361,38.39,39.6,39.31,-,1374.36,1421.64,1423.02,-
+New single-family housing construction (except for-sale builders)(1),236115,39.21,40.76,40.71,-,1415.48,1504.04,1514.41,-
+Residential remodelers(1),236118,36.43,37.72,37.37,-,1293.27,1327.74,1326.64,-
+Nonresidential building construction(1),2362,44.73,45.6,45.67,-,1766.84,1814.88,1826.8,-
+Industrial building construction(1),23621,42.34,43.97,43.62,-,1731.71,1789.58,1770.97,-
+Commercial and institutional building construction(1),23622,45.42,45.94,46.08,-,1780.46,1819.22,1843.2,-
+Heavy and civil engineering construction(1),237,40.59,41.68,41.86,-,1741.31,1796.41,1837.65,-
+Utility system construction(1),2371,40.63,41.59,42.1,-,1787.72,1846.6,1894.5,-
+Water and sewer line and related structures construction(1),23711,37.91,40.47,40.9,-,1603.59,1732.12,1775.06,-
+Oil and gas pipeline and related structures construction(1),23712,40.24,40.9,40.79,-,1991.88,2024.55,2047.66,-
+Power and communication line and related structures construction(1),23713,43.52,43.52,43.91,-,1836.54,1832.19,1883.74,-
+Land subdivision(1),2372,41.17,45.36,44.78,-,1420.37,1632.96,1607.6,-
+"Highway, street, and bridge construction(1)",2373,39.06,40.81,41.13,-,1636.61,1730.34,1789.16,-
+Other heavy and civil engineering construction(1),2379,43.63,41.85,41.89,-,1871.73,1782.81,1801.27,-
+Specialty trade contractors(1),238,37.58,38.84,38.99,-,1439.31,1483.69,1501.12,-
+"Foundation, structure, and building exterior contractors(1)",2381,34.98,35.97,35.97,-,1308.25,1327.29,1341.68,-
+Poured concrete foundation and structure contractors(1),23811,34.46,36.33,36.24,-,1350.83,1402.34,1402.49,-
+Structural steel and precast concrete contractors(1),23812,38.3,39,39.21,-,1539.66,1595.1,1627.22,-
+Framing contractors(1),23813,32.29,33.2,33.59,-,1101.09,1079,1118.55,-
+Masonry contractors(1),23814,33.86,34.46,34.37,-,1218.96,1216.44,1233.88,-
+Glass and glazing contractors(1),23815,36.33,37.67,37.83,-,1405.97,1446.53,1456.46,-
+Roofing contractors(1),23816,36.51,37.02,36.94,-,1307.06,1321.61,1333.53,-
+Building equipment contractors(1),2382,39.76,41.37,41.61,-,1546.66,1605.16,1618.63,-
+Electrical contractors and other wiring installation contractors(1),23821,39.73,41.43,41.75,-,1569.34,1636.49,1653.3,-
+"Plumbing, heating, and air-conditioning contractors(1)",23822,39.29,40.85,40.97,-,1504.81,1552.3,1560.96,-
+Other building equipment contractors(1),23829,43.25,45.01,45.14,-,1742.98,1804.9,1855.25,-
+Building finishing contractors(1),2383,34.58,35.13,35.22,-,1262.17,1285.76,1289.05,-
+Drywall and insulation contractors(1),23831,39.17,38.91,39.15,-,1445.37,1439.67,1417.23,-
+Painting and wall covering contractors(1),23832,30.24,31.38,31.36,-,1091.66,1132.82,1147.78,-
+Flooring contractors(1),23833,34,35.79,36.14,-,1237.6,1327.81,1369.71,-
+Tile and terrazzo contractors(1),23834,34.4,36.41,36.77,-,1248.72,1321.68,1371.52,-
+Finish carpentry contractors(1),23835,33.45,33.46,33.46,-,1220.93,1258.1,1221.29,-
+Other building finishing contractors(1),23839,34.27,35.62,35.8,-,1233.72,1228.89,1256.58,-
+Other specialty trade contractors(1),2389,36.69,37.72,37.79,-,1452.92,1489.94,1526.72,-
+Site preparation contractors(1),23891,36.95,37.71,37.79,-,1474.31,1512.17,1538.05,-
+All other specialty trade contractors(1),23899,36.46,37.76,37.74,-,1421.94,1483.97,1509.6,-
+,,,,,,,,,
+Manufacturing,,34.54,35.83,35.91,36.07,1385.05,1433.2,1439.99,1439.19
+,,,,,,,,,
+Durable goods,,36.57,38,38.09,38.29,1484.74,1539,1546.45,1546.92
+Wood product manufacturing,321,28.22,28.36,28.52,28.47,1137.27,1142.91,1160.76,1155.88
+Sawmills and wood preservation(1),3211,28.2,27.62,28.13,-,1195.68,1195.95,1234.91,-
+"Veneer, plywood, and engineered wood product manufacturing(1)",3212,30.53,30.54,30.37,-,1282.26,1239.92,1245.17,-
+Other wood product manufacturing(1),3219,27.37,27.96,28.12,-,1061.96,1093.24,1110.74,-
+Millwork(1),32191,29.74,30.8,31.44,-,1168.78,1213.52,1251.31,-
+Wood container and pallet manufacturing(1),32192,24.29,25.18,25.12,-,1015.32,1044.97,1044.99,-
+All other wood product manufacturing(1),32199,26.81,26.13,26.27,-,954.44,961.58,990.38,-
+Nonmetallic mineral product manufacturing,327,31.71,32.94,33.05,32.82,1331.82,1390.07,1401.32,1362.03
+Cement and concrete product manufacturing(1),3273,31.8,32.92,33.24,-,1357.86,1405.68,1426,-
+Ready-mix concrete manufacturing(1),32732,33.15,34.65,34.88,-,1428.77,1489.95,1513.79,-
+"Cement and concrete pipe, brick, block, and other concrete product manufacturing(1)","32731,3,9",30.56,31.37,31.51,-,1286.58,1333.23,1339.18,-
+"Lime, gypsum, and other nonmetallic mineral product manufacturing(1)","3274,9",34.18,33.67,33.83,-,1421.89,1393.94,1451.31,-
+Primary metal manufacturing,331,34.93,35.6,36,36.3,1474.05,1502.32,1519.2,1539.12
+Foundries(1),3315,32.42,32.21,33.04,-,1364.88,1368.93,1410.81,-
+Fabricated metal product manufacturing,332,32.2,33.19,33.32,33.37,1294.44,1350.83,1356.12,1354.82
+Forging and stamping(1),3321,28.75,30.66,31.13,-,1112.63,1220.27,1235.86,-
+Architectural and structural metals manufacturing(1),3323,32.36,32.83,32.88,-,1304.11,1355.88,1357.94,-
+Plate work and fabricated structural product manufacturing(1),33231,31.75,32.44,32.66,-,1308.1,1385.19,1401.11,-
+Fabricated structural metal manufacturing(1),332312,30.64,31.82,31.96,-,1293.01,1393.72,1415.83,-
+Ornamental and architectural metal products manufacturing(1),33232,33.01,33.35,33.16,-,1317.1,1344.01,1326.4,-
+Sheet metal work manufacturing(1),332322,33.4,32.87,32.6,-,1329.32,1314.8,1304,-
+"Boiler, tank, and shipping container manufacturing(1)",3324,35.61,36.28,36.34,-,1399.47,1465.71,1457.23,-
+"Machine shops; turned product; and screw, nut, and bolt manufacturing(1)",3327,32.25,32.69,32.72,-,1251.3,1261.83,1262.99,-
+Machine shops(1),33271,31.72,31.98,31.95,-,1214.88,1231.23,1223.69,-
+"Turned product and screw, nut, and bolt manufacturing(1)",33272,33.91,35.02,35.41,-,1366.57,1383.29,1405.78,-
+"Coating, engraving, heat treating, and allied activities(1)",3328,27.69,28.34,28.39,-,1102.06,1136.43,1146.96,-
+"Metal heat treating, coating, engraving (except jewelry and silverware), and allied services to manufacturers(1)","332811,2",29.16,28.4,28.42,-,1122.66,1113.28,1136.8,-
+"Electroplating, plating, polishing, anodizing, and coloring(1)",332813,25.43,28.1,28.19,-,1060.43,1160.53,1150.15,-
+"Cutlery, handtool, and other fabricated metal product manufacturing(1)",3329,34.85,36.75,37.01,-,1456.73,1550.85,1565.52,-
+Machinery manufacturing,333,37.22,38.52,38.33,38.29,1503.69,1556.21,1548.53,1550.75
+"Agriculture, construction, and mining machinery manufacturing(1)",3331,35.27,34.01,33.46,-,1386.11,1346.8,1318.32,-
+Industrial machinery manufacturing(1),3332,42.48,48.64,48.72,-,1711.94,1935.87,1958.54,-
+All other industrial machinery manufacturing(1),333248,38.21,40.86,41.27,-,1578.07,1597.63,1663.18,-
+Commercial and service industry machinery manufacturing(1),3333,40.39,42.5,42.06,-,1587.33,1666,1652.96,-
+"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing(1)",3334,30.23,31.16,30.2,-,1278.73,1318.07,1295.58,-
+Metalworking machinery manufacturing(1),3335,35.12,35.82,35.8,-,1387.24,1432.8,1421.26,-
+"Special die and tool, die set, jig, and fixture manufacturing(1)",333514,33.29,34.61,34.42,-,1351.57,1398.24,1387.13,-
+"Engine, turbine, and power transmission equipment manufacturing(1)",3336,43.76,41.26,41.03,-,1846.67,1600.89,1587.86,-
+Other general purpose machinery manufacturing(1),3339,37.94,40.7,40.59,-,1513.81,1676.84,1664.19,-
+Material handling equipment manufacturing(1),33392,41.68,43.33,44.06,-,1713.05,1845.86,1885.77,-
+Computer and electronic product manufacturing,334,45.81,48.26,48.28,48.94,1814.08,1915.92,1902.23,1913.55
+Communications equipment manufacturing(1),3342,42.35,47.26,47.91,-,1723.65,1904.58,1930.77,-
+Semiconductor and other electronic component manufacturing(1),3344,43.44,44.78,44.94,-,1694.16,1755.38,1752.66,-
+Semiconductor and related device manufacturing(1),334413,54.57,57.7,58.17,-,2182.8,2319.54,2332.62,-
+"Capacitor, resistor, coil, transformer, other inductor, electronic connector, and other electronic component manufacturing(1)","334416,7,9",34.68,35.89,35.73,-,1397.6,1399.71,1397.04,-
+"Navigational, measuring, electromedical, and control instruments manufacturing(1)",3345,48.76,50.89,51.11,-,1911.39,2030.51,2039.29,-
+"Electrical equipment, appliance, and component manufacturing",335,36.19,38.92,38.73,40.66,1436.74,1510.1,1525.96,1536.95
+Electrical equipment manufacturing(1),3353,37.26,39.81,38.7,-,1520.21,1600.36,1640.88,-
+Other electrical equipment and component manufacturing(1),3359,36.08,37.64,37.76,-,1414.34,1449.14,1431.1,-
+Transportation equipment manufacturing,336,40.65,42.66,42.94,42.89,1699.17,1761.86,1777.72,1779.94
+Motor vehicles and parts(1)(2),"3361,2,3",35.26,36.27,36.54,36.38,1470.34,1505.21,1512.76,1517.05
+Motor vehicle manufacturing(1),3361,43.87,43.79,44.16,-,1864.48,1904.87,1920.96,-
+Motor vehicle body and trailer manufacturing(1),3362,30.75,31.87,31.72,-,1202.33,1217.43,1208.53,-
+Motor vehicle parts manufacturing(1),3363,31.55,32.9,33.52,-,1321.95,1355.48,1387.73,-
+Motor vehicle electrical and electronic equipment manufacturing(1),33632,29.2,31.93,32.09,-,1153.4,1280.39,1280.39,-
+Aerospace product and parts manufacturing(1),3364,53.18,57.39,57.63,-,2238.88,2375.95,2380.12,-
+Aircraft manufacturing(1),336411,56.31,61.18,61.06,-,2359.39,2490.03,2485.14,-
+Furniture and related product manufacturing,337,28.08,28.65,28.51,28.67,1078.27,1103.03,1106.19,1112.4
+Household and institutional furniture and kitchen cabinet manufacturing(1),3371,27.07,27.09,27.14,-,1039.49,1042.97,1058.46,-
+Wood kitchen cabinet and countertop manufacturing(1),33711,26.63,27.16,26.96,-,1038.57,1083.68,1086.49,-
+Household and institutional furniture manufacturing(1),33712,27.62,27.02,27.4,-,1046.8,991.63,1019.28,-
+Miscellaneous manufacturing,339,33.2,34.35,34.56,34.78,1318.04,1360.26,1372.03,1377.29
+Medical equipment and supplies manufacturing(1),3391,35.49,36.12,36.3,-,1447.99,1466.47,1488.3,-
+Surgical appliance and supplies manufacturing(1),339113,31.29,32.13,32.3,-,1267.25,1285.2,1288.77,-
+Other miscellaneous manufacturing(1),3399,30.7,32.28,32.51,-,1181.95,1242.78,1251.64,-
+Sign manufacturing(1),33995,29,31.72,32.14,-,1075.9,1189.5,1192.39,-
+"Doll, toy, game, office supplies (except paper), and all other miscellaneous manufacturing(1)","33993,4,9",31.18,32.42,32.59,-,1228.49,1280.59,1287.31,-
+,,,,,,,,,
+Nondurable goods,,31.11,32.19,32.26,32.36,1225.73,1261.85,1267.82,1265.28
+Food manufacturing,311,27.22,28.33,28.37,28.41,1075.19,1113.37,1120.62,1122.2
+Sugar and confectionery product manufacturing(1),3113,29.48,31.57,31.95,-,1099.6,1117.58,1131.03,-
+Fruit and vegetable preserving and specialty food manufacturing(1),3114,26.57,28.01,28.34,-,1129.23,1103.59,1130.77,-
+Frozen food manufacturing(1),31141,24.59,25.21,25.45,-,1099.17,1058.82,1081.63,-
+"Fruit and vegetable canning, pickling, and drying(1)",31142,29.46,31.99,32.37,-,1166.62,1180.43,1194.45,-
+Dairy product manufacturing(1),3115,31.96,34.24,34.64,-,1339.12,1472.32,1482.59,-
+Animal slaughtering and processing(1),3116,24.93,25.65,25.57,-,1019.64,1041.39,1040.7,-
+Poultry processing(1),311615,25.23,25.16,25.15,-,1029.38,1003.88,1016.06,-
+Seafood product preparation and packaging(1),3117,20.86,21.95,22.8,-,815.63,801.18,823.08,-
+Bakeries and tortilla manufacturing(1),3118,24.99,26.16,26.48,-,859.66,918.22,947.98,-
+"Commercial bakeries and frozen cakes, pies, and other pastries manufacturing(1)","311812,3",26.64,27.86,28.01,-,929.74,972.31,997.16,-
+Other food manufacturing(1),3119,28.54,29.5,29.5,-,1138.75,1180,1182.95,-
+Textile mills,313,27.57,27.13,27.37,26.89,1113.83,1109.62,1133.12,1113.25
+Textile product mills,314,23.56,27.11,27.43,28.02,836.38,997.65,1031.37,1011.52
+Apparel manufacturing,315,24.26,23.63,23.54,23.44,883.06,834.14,833.32,829.78
+Paper manufacturing,322,31.51,32.64,32.87,32.63,1317.12,1354.56,1354.24,1347.62
+Paperboard container manufacturing(1),32221,32.57,33.98,34.22,-,1273.49,1308.23,1307.2,-
+Printing and related support activities,323,29.68,30.16,30.41,30.76,1104.1,1127.98,1131.25,1135.04
+Chemical manufacturing,325,39.58,40.64,40.9,40.93,1610.91,1658.11,1664.63,1653.57
+Basic chemical manufacturing(1),3251,44.12,47.09,47.53,-,1879.51,2043.71,2048.54,-
+Pharmaceutical and medicine manufacturing(1),3254,41.06,43.55,43.75,-,1630.08,1728.94,1728.13,-
+"Soap, cleaning compound, and toilet preparation manufacturing(1)",3256,31.48,33.75,34.09,-,1278.09,1333.13,1319.28,-
+Other chemical product and preparation manufacturing(1),3259,35.41,33.11,33.09,-,1462.43,1400.55,1399.71,-
+Plastics and rubber products manufacturing,326,29.69,30.93,30.92,31.36,1187.6,1234.11,1239.89,1251.26
+Other plastics product manufacturing(1),32619,28.15,29.98,29.78,-,1123.19,1190.21,1185.24,-
+,,,,,,,,,
+Private service-providing,,35.52,36.63,36.72,36.83,1179.26,1216.12,1219.1,1222.76
+,,,,,,,,,
+"Trade, transportation, and utilities",,30.34,31.34,31.49,31.6,1031.56,1068.69,1070.66,1074.4
+,,,,,,,,,
+Wholesale trade,42,37.91,39.21,39.29,39.34,1482.28,1537.03,1540.17,1538.19
+"Merchant wholesalers, durable goods(1)",423,38.59,40,40.14,-,1528.16,1576,1585.53,-
+Motor vehicle and motor vehicle parts and supplies merchant wholesalers(1),4231,35.67,36.39,36.84,-,1362.59,1408.29,1440.44,-
+Automobile and other motor vehicle merchant wholesalers(1),42311,37.01,37.69,37.73,-,1402.68,1469.91,1463.92,-
+Motor vehicle supplies and new parts merchant wholesalers(1),42312,33.99,35.09,35.8,-,1301.82,1347.46,1399.78,-
+Furniture and home furnishing merchant wholesalers(1),4232,36.19,38.42,38.84,-,1433.12,1486.85,1499.22,-
+Lumber and other construction materials merchant wholesalers(1),4233,31.5,33.34,33.36,-,1294.65,1376.94,1384.44,-
+"Lumber, plywood, millwork, and wood panel merchant wholesalers(1)",42331,31.52,32.86,32.9,-,1292.32,1320.97,1309.42,-
+Professional and commercial equipment and supplies merchant wholesalers(1),4234,44.56,46.15,46.53,-,1742.3,1795.24,1814.67,-
+Computer and computer peripheral equipment and software merchant wholesalers(1),42343,55.72,58.65,58.98,-,2122.93,2281.49,2306.12,-
+"Medical, dental, and hospital equipment and supplies merchant wholesalers(1)",42345,41.91,42.81,43.38,-,1655.45,1652.47,1683.14,-
+Metal and mineral (except petroleum) merchant wholesalers(1),4235,36.22,38.02,37.39,-,1463.29,1513.2,1495.6,-
+Household appliances and electrical and electronic goods merchant wholesalers(1),4236,43.6,45.5,45.36,-,1726.56,1783.6,1773.58,-
+"Electrical apparatus and equipment, wiring supplies, and related equipment merchant wholesalers(1)",42361,42.51,43.94,42.77,-,1708.9,1753.21,1706.52,-
+"Household appliances, electric housewares, consumer electronics, and other electronic parts and equipment merchant wholesalers(1)","42362,9",45.07,47.06,48.05,-,1744.21,1807.1,1830.71,-
+"Hardware, and plumbing and heating equipment and supplies merchant wholesalers(1)",4237,35.09,36.72,36.75,-,1368.51,1439.42,1440.6,-
+Hardware merchant wholesalers(1),42371,34.46,36.64,36.71,-,1278.47,1454.61,1424.35,-
+"Plumbing, heating, and hydronics equipment and supplies merchant wholesalers(1)",42372,34.35,35.14,35.07,-,1370.57,1384.52,1371.24,-
+"Warm air heating, air-conditioning, and refrigeration equipment and supplies merchant wholesalers(1)","42373,4",36.78,38.47,38.69,-,1449.13,1492.64,1508.91,-
+"Machinery, equipment, and supplies merchant wholesalers(1)",4238,38.18,40.12,40.24,-,1546.29,1608.81,1617.65,-
+Construction and mining (except oil well) machinery and equipment merchant wholesalers(1),42381,41.15,43.44,44.43,-,1691.27,1776.7,1821.63,-
+Farm and garden machinery and equipment merchant wholesalers(1),42382,33.8,35.11,35.27,-,1355.38,1369.29,1357.9,-
+Industrial machinery and equipment merchant wholesalers(1),42383,39.93,41.49,41.11,-,1617.17,1655.45,1660.84,-
+Industrial supplies merchant wholesalers(1),42384,33.11,37.12,37.42,-,1400.55,1536.77,1534.22,-
+Service establishment equipment and supplies merchant wholesalers(1),42385,33.29,36.32,35.62,-,1298.31,1438.27,1403.43,-
+Transportation equipment and supplies (except motor vehicle) merchant wholesalers(1),42386,49.81,47.51,46.64,-,1937.61,1886.15,1846.94,-
+Miscellaneous durable goods merchant wholesalers(1),4239,34.42,33.9,33.7,-,1352.71,1322.1,1324.41,-
+Sporting and recreational goods and supplies merchant wholesalers(1),42391,32.81,35.6,35.56,-,1299.28,1374.16,1379.73,-
+Recyclable material merchant wholesalers(1),42393,28.12,26.5,26.23,-,1169.79,1113,1125.27,-
+"Merchant wholesalers, nondurable goods(1)",424,35.25,36.29,36.29,-,1360.65,1411.68,1404.42,-
+Paper and paper product merchant wholesalers(1),4241,32.29,37.09,37.55,-,1120.46,1305.57,1340.54,-
+Drugs and druggists' sundries merchant wholesalers(1),4242,50.73,55.05,54.52,-,1922.67,2064.38,1989.98,-
+"Apparel, piece goods, and notions merchant wholesalers(1)",4243,31.92,32.3,32.07,-,1209.77,1253.24,1228.28,-
+Clothing and clothing accessories merchant wholesalers(1),42435,31.88,31.29,30.67,-,1319.83,1273.5,1220.67,-
+Grocery and related product merchant wholesalers(1),4244,31.22,32.41,32.66,-,1230.07,1289.92,1293.34,-
+General line grocery merchant wholesalers(1),42441,31.16,31.09,30.56,-,1168.5,1184.53,1176.56,-
+Fresh fruit and vegetable merchant wholesalers(1),42448,29.83,30.01,30.51,-,1181.27,1197.4,1202.09,-
+Farm product raw material merchant wholesalers(1),4245,32.55,32.52,32.65,-,1360.59,1359.34,1368.04,-
+Grain and field bean merchant wholesalers(1),42451,31.76,31.78,31.88,-,1349.8,1372.9,1361.28,-
+Chemical and allied products merchant wholesalers(1),4246,42.51,43.11,42.84,-,1662.14,1715.78,1670.76,-
+Petroleum and petroleum products merchant wholesalers(1),4247,36.81,37.41,36.79,-,1568.11,1545.03,1526.79,-
+"Beer, wine, and distilled alcoholic beverage merchant wholesalers(1)",4248,35.62,33.45,33.11,-,1307.25,1301.21,1281.36,-
+Miscellaneous nondurable goods merchant wholesalers(1),4249,32.81,32.62,32.58,-,1213.97,1242.82,1244.56,-
+Farm supplies merchant wholesalers(1),42491,33.14,32.86,32.71,-,1259.32,1317.69,1328.03,-
+Wholesale trade agents and brokers(1),425,45.08,46.91,47.04,-,1717.55,1815.42,1820.45,-
+,,,,,,,,,
+Retail trade,,24.86,25.76,25.93,26.05,743.31,770.22,772.71,771.08
+Motor vehicle and parts dealers(1),441,31.67,33.01,33.37,-,1168.62,1227.97,1244.7,-
+Automobile dealers(1),4411,35,36.3,36.67,-,1305.5,1372.14,1393.46,-
+New car dealers(1),44111,35.91,37.02,37.51,-,1343.03,1406.76,1436.63,-
+Used car dealers(1),44112,28.32,31.05,31.1,-,1042.18,1124.01,1128.93,-
+Other motor vehicle dealers(1),4412,30.61,31.43,31.87,-,1117.27,1140.91,1160.07,-
+"Automotive parts, accessories, and tire retailers(1)",4413,24.43,25.8,26.11,-,886.81,939.12,953.02,-
+Automotive parts and accessories retailers(1),44133,24.62,26.28,26.63,-,891.24,943.45,961.34,-
+Tire dealers(1),44134,24.07,24.77,25.1,-,871.33,923.92,941.25,-
+Building material and garden equipment and supplies dealers(1),444,22.75,23.3,23.38,-,677.95,699,699.06,-
+Building material and supplies dealers(1),4441,22.47,23,23.02,-,665.11,678.5,679.09,-
+Hardware retailers(1),44414,22.41,22.67,22.91,-,694.71,668.77,673.55,-
+"Home centers, paint, wallpaper, and other building material dealers(1)","44411,2,8",22.58,23.11,23.12,-,666.11,684.06,682.04,-
+Lawn and garden equipment and supplies retailers(1),4442,24.34,24.98,25.73,-,761.84,824.34,846.52,-
+Food and beverage retailers(1),445,21.85,22.14,22.13,-,633.65,657.56,657.26,-
+Grocery and convenience retailers(1),4451,21.91,22,22,-,641.96,660,657.8,-
+Supermarkets and other grocery retailers (except convenience retailers)(1),44511,22.14,22.31,22.24,-,642.06,667.07,662.75,-
+Convenience retailers and vending machine operators(1),44513,19.2,18.38,18.07,-,627.84,569.78,572.82,-
+Specialty food retailers(1),4452,22.81,23.83,23.78,-,611.31,660.09,653.95,-
+"Meat, fish, and seafood retailers(1)","44524,5",25.35,26.22,25.92,-,755.43,839.04,834.62,-
+"Beer, wine, and liquor retailers(1)",4453,22.38,23.07,23.22,-,628.88,655.19,657.13,-
+"Furniture, home furnishings, electronics, and appliance retailers(1)",449,29.36,30.29,30.34,-,983.56,1008.66,1022.46,-
+Furniture and home furnishings retailers(1),4491,28.53,29.21,29.07,-,878.72,911.35,915.71,-
+Furniture retailers(1),44911,29.5,29.21,28.97,-,979.4,993.14,982.08,-
+Home furnishings retailers(1),44912,27.47,29.33,29.33,-,782.9,838.84,847.64,-
+Floor covering retailers(1),449121,32.24,34.96,34.95,-,1125.18,1223.6,1223.25,-
+Window treatment and all other home furnishings retailers(1),"449122,9",24.05,25.51,25.68,-,606.06,650.51,665.11,-
+Electronics and appliance retailers(1),4492,30.06,32.15,32.28,-,1076.15,1138.11,1158.85,-
+General merchandise retailers(1),455,22.14,23.52,23.64,-,613.28,627.98,624.1,-
+Health and personal care retailers(1),456,29.65,31.02,31.06,-,868.75,908.89,910.06,-
+Pharmacies and drug retailers(1),45611,31.12,32.64,32.9,-,955.38,1002.05,1013.32,-
+"Cosmetics, beauty supplies, and perfume retailers(1)",45612,25.37,26.73,25.63,-,588.58,646.87,622.81,-
+Optical goods retailers(1),45613,23.85,25.12,25.26,-,686.88,720.94,719.91,-
+Other health and personal care retailers(1),45619,28.96,30.59,30.89,-,918.03,905.46,908.17,-
+Gasoline stations and fuel dealers(1),457,20.31,21.13,21.27,-,653.98,682.5,689.15,-
+Gasoline stations(1),4571,19.31,20.04,20.12,-,612.13,637.27,639.82,-
+Gasoline stations with convenience stores(1),45711,19.09,19.87,19.95,-,607.06,633.85,636.41,-
+Other gasoline stations(1),45712,21.43,21.88,21.97,-,655.76,673.9,676.68,-
+Fuel dealers(1),4572,31.72,33.48,33.6,-,1240.25,1319.11,1360.8,-
+"Clothing, clothing accessories, shoe, and jewelry retailers(1)",458,25.31,25.94,26.15,-,622.63,619.97,622.37,-
+Clothing and clothing accessories retailers(1),4581,24.38,25.2,25.33,-,577.81,589.68,592.72,-
+Shoe retailers(1),4582,24.1,24.31,24.48,-,580.81,537.25,538.56,-
+"Jewelry, luggage, and leather goods retailers(1)",4583,31.92,31.07,32.02,-,963.98,935.21,947.79,-
+"Sporting goods, hobby, musical instrument, book, and miscellaneous retailers(1)",459,23.99,24.59,24.8,-,666.92,693.44,696.88,-
+"Sporting goods, hobby, and musical instrument retailers(1)",4591,24.07,24.23,24.72,-,596.94,617.87,620.47,-
+Sporting goods retailers(1),45911,25,24.92,25.04,-,670,680.32,691.1,-
+"Hobby, toy, and game retailers(1)",45912,19.92,19.88,21.01,-,446.21,471.16,500.04,-
+Book retailers and news dealers(1),4592,25.73,25.2,24.41,-,766.75,745.92,746.95,-
+Florists(1),4593,23.12,23.17,22.74,-,608.06,574.62,566.23,-
+"Office supplies, stationery, and gift retailers(1)",4594,23.79,24.08,24.59,-,613.78,633.3,641.8,-
+Office supplies and stationery retailers(1),45941,23.37,23.46,23.96,-,659.03,675.65,692.44,-
+"Gift, novelty, and souvenir retailers(1)",45942,23.94,24.42,24.55,-,588.92,612.94,606.39,-
+Used merchandise retailers(1),4595,19.5,20.43,20.32,-,575.25,598.6,597.41,-
+Other miscellaneous retailers(1),4599,25.61,26.88,26.99,-,786.23,835.97,833.99,-
+Pet and pet supplies retailers(1),45991,24.56,25.12,25.59,-,724.52,736.02,754.91,-
+"Tobacco, electronic cigarette, and other smoking supplies retailers(1)",459991,21.86,22.75,22.99,-,679.85,714.35,703.49,-
+,,,,,,,,,
+Transportation and warehousing,,30.99,31.89,31.98,32.02,1183.82,1221.39,1224.83,1239.17
+Air transportation(1),481,47.29,47.84,47.91,-,1811.21,1880.11,1873.28,-
+Truck transportation(1),484,31.71,32.85,32.92,-,1277.91,1333.71,1336.55,-
+General freight trucking(1),4841,31.5,32.59,32.77,-,1250.55,1313.38,1320.63,-
+"General freight trucking, local(1)",48411,29.57,31.14,31.39,-,1168.02,1220.69,1224.21,-
+"General freight trucking, long-distance(1)",48412,32.3,33.14,33.38,-,1288.77,1352.11,1365.24,-
+"General freight trucking, long-distance, truckload(1)",484121,31.13,31.4,31.73,-,1263.88,1290.54,1307.28,-
+"General freight trucking, long-distance, less than truckload(1)",484122,34.61,36.7,36.76,-,1332.49,1475.34,1485.1,-
+Specialized freight trucking(1),4842,32.06,33.34,33.19,-,1324.08,1363.61,1370.75,-
+Used household and office goods moving(1),48421,29.74,30.91,30.55,-,999.26,1016.94,995.93,-
+"Specialized freight (except used goods) trucking, local(1)",48422,31.48,32.64,32.67,-,1422.9,1442.69,1493.02,-
+"Specialized freight (except used goods) trucking, long-distance(1)",48423,34.76,36.34,36.04,-,1411.26,1489.94,1481.24,-
+Transit and ground passenger transportation(1),485,28,28.54,28.56,-,974.4,970.36,962.47,-
+School and employee bus transportation(1),4854,26.28,27.45,27.45,-,783.14,793.31,782.33,-
+Other transit and ground passenger transportation(1),4859,24.54,26.3,26.16,-,849.08,904.72,907.75,-
+Support activities for transportation(1),488,34.76,35.5,35.7,-,1327.83,1370.3,1381.59,-
+Support activities for air transportation(1),4881,33.93,33.85,34.19,-,1241.84,1272.76,1288.96,-
+Support activities for water transportation(1),4883,40.11,43.2,43.61,-,1560.28,1602.72,1635.38,-
+Support activities for road transportation(1),4884,28.59,28.98,29.24,-,1169.33,1185.28,1204.69,-
+Freight transportation arrangement(1),4885,37.45,38.14,38.1,-,1419.36,1468.39,1470.66,-
+"Other support activities for transportation, including rail(1)","4882,9",32.14,33.19,33.24,-,1285.6,1387.34,1376.14,-
+Couriers and messengers(1),492,25.33,25.72,25.68,-,820.69,864.19,852.58,-
+Warehousing and storage(1),493,24.81,26.11,26.15,-,1004.81,1041.79,1048.62,-
+General warehousing and storage(1),49311,24.35,25.62,25.73,-,981.31,1014.55,1026.63,-
+Refrigerated warehousing and storage(1),49312,30.29,31.56,31.48,-,1275.21,1353.92,1353.64,-
+"Other warehousing and storage, including farm product(1)","49313,9",33.42,33.72,33.22,-,1330.12,1446.59,1428.46,-
+,,,,,,,,,
+Utilities,22,52.2,53.51,53.82,54.02,2202.84,2247.42,2265.82,2306.65
+"Electric power generation, transmission and distribution(1)",2211,54.33,55.74,56.06,-,2303.59,2391.25,2393.76,-
+Electric power generation(1),22111,61.6,62.52,63.19,-,2642.64,2669.6,2729.81,-
+Fossil fuel electric power generation(1),221112,63.91,66.41,67.21,-,2786.48,2862.27,2903.47,-
+"Electric power transmission, control, and distribution(1)",22112,49.73,51.74,51.44,-,2098.61,2183.43,2175.91,-
+Natural gas distribution(1),2212,52.24,53.68,54.15,-,2246.32,2233.09,2274.3,-
+"Water, sewage, and other systems(1)",2213,36.97,37.2,37.13,-,1434.44,1447.08,1481.49,-
+,,,,,,,,,
+Information,51,51.04,53.42,53.28,53.61,1883.38,1981.88,1987.34,1988.93
+Motion picture and sound recording industries(1),512,40.91,43.42,43.35,-,1075.93,1163.66,1135.77,-
+Publishing industries(1),513,57.96,58.93,58.42,-,2248.85,2286.48,2272.54,-
+"Newspaper, periodical, book, and directory publishers(1)",5131,41.98,41.96,42.06,-,1523.87,1548.32,1543.6,-
+Newspaper publishers(1),51311,32.82,35.3,35.38,-,1168.39,1284.92,1248.91,-
+Periodical publishers(1),51312,52.01,50.39,49.99,-,1893.16,1849.31,1799.64,-
+Book publishers(1),51313,42.47,43.39,44.22,-,1520.43,1605.43,1658.25,-
+Software publishers(1),5132,63.88,64.97,64.2,-,2523.26,2579.31,2548.74,-
+Broadcasting and content providers(1),516,50.46,51.99,52.67,-,1872.07,1908.03,1954.06,-
+Radio and television broadcasting stations(1),5161,39.93,41.08,41.28,-,1413.52,1404.94,1436.54,-
+"Media streaming distribution services, social networks, and other media networks and content providers(1)",5162,55.61,57.28,57.79,-,2102.06,2170.91,2213.36,-
+Telecommunications(1),517,44.48,48.94,48.7,-,1792.54,2016.33,2021.05,-
+Wired and wireless telecommunications (except satellite)(1),5171,44.59,48.98,48.83,-,1810.35,2027.77,2045.98,-
+Wired and wireless telecommunications carriers (except satellite)(1),51711,44.82,49.45,49.22,-,1828.66,2057.12,2072.16,-
+Wired telecommunications carriers(1),517111,45.7,50.38,49.84,-,1878.27,2126.04,2128.17,-
+Wireless telecommunications carriers (except satellite)(1),517112,40.13,42.3,43.11,-,1557.04,1645.47,1681.29,-
+Telecommunications resellers(1),51712,39.18,42.36,42.92,-,1481,1647.8,1682.46,-
+All other telecommunications(1),"5174,8",44.28,51.81,52.11,-,1642.79,2030.95,2001.02,-
+"Computing infrastructure providers, data processing, web hosting, and related services(1)",518,56.38,57.28,57.62,-,2176.27,2239.65,2235.66,-
+"Web search portals, libraries, archives, and other information services(1)",519,42.86,45,45.9,-,1367.23,1534.5,1523.88,-
+,,,,,,,,,
+Financial activities,,46.37,48.18,48.27,48.53,1748.15,1806.75,1805.3,1810.17
+Credit intermediation and related activities(1),522,47.91,50.28,50.29,-,1858.91,1925.72,1911.02,-
+Depository credit intermediation(1),5221,49.46,51.66,51.54,-,1928.94,1983.74,1948.21,-
+Commercial banking(1),52211,53.12,56.17,55.07,-,2082.3,2156.93,2081.65,-
+Credit unions(1),52213,34.87,36.86,37.52,-,1335.52,1404.37,1403.25,-
+Savings institutions and other depository credit intermediation(1),52218,39.82,44.18,44.4,-,1517.14,1696.51,1691.64,-
+Nondepository credit intermediation(1),5222,44.04,46.93,47.94,-,1713.16,1806.81,1845.69,-
+Other nondepository credit intermediation(1),52229,44.17,47.52,48.2,-,1674.04,1801.01,1860.52,-
+Consumer lending(1),522291,33.8,36.32,37.42,-,1301.3,1387.42,1433.19,-
+Real estate credit(1),522292,47.71,51.27,52.04,-,1793.9,1973.9,2055.58,-
+"International, secondary market, and all other nondepository credit intermediation(1)",522299,47.08,51.07,50.72,-,1779.62,1869.16,1871.57,-
+Activities related to credit intermediation(1),5223,46.05,45.88,45.83,-,1745.3,1725.09,1723.21,-
+Mortgage and nonmortgage loan brokers(1),52231,49.36,51.55,51.9,-,1870.74,1927.97,1961.82,-
+"Financial transactions processing, reserve, and clearinghouse activities(1)",52232,48.68,44.68,44.01,-,1859.58,1702.31,1667.98,-
+Other activities related to credit intermediation(1),52239,37,40.46,41.18,-,1372.7,1492.97,1540.13,-
+"Securities, commodity contracts, funds, trusts, and other financial vehicles, investments, and related activities(1)","523,5",67.59,69.58,69.98,-,2595.46,2637.08,2666.24,-
+"Securities and commodity contracts brokerage, intermediation, and exchanges(1)","5231,2",68.88,72.75,73.47,-,2693.21,2764.5,2828.6,-
+Investment banking and securities intermediation(1),52315,68.85,71.92,73.42,-,2719.58,2740.15,2826.67,-
+"Funds, trusts, and other financial vehicles and investment activities(1)","5239,50",66.66,67.42,67.47,-,2526.41,2548.48,2550.37,-
+Miscellaneous intermediation(1),52391,90.45,78.98,76.78,-,3129.57,2827.48,2817.83,-
+Portfolio management and investment advice(1),52394,67.07,68.43,68.57,-,2541.95,2586.65,2591.95,-
+All other financial investment activities(1),52399500,55.94,57.52,58.32,-,2164.88,2203.02,2221.99,-
+Insurance carriers and related activities(1),524,46.11,48.05,48.43,-,1761.4,1854.73,1869.4,-
+Insurance carriers(1),5241,48.89,50.37,50.59,-,1887.15,1954.36,1957.83,-
+"Direct insurance (except life, health, and medical) carriers(1)",52412,48.59,50.51,50.67,-,1826.98,1909.28,1915.33,-
+Direct property and casualty insurance carriers(1),524126,48.93,50.93,50.88,-,1829.98,1925.15,1918.18,-
+"Direct title insurance and other direct insurance (except life, health, and medical) carriers(1)","524127,8",46.25,47.55,49.15,-,1780.63,1840.19,1892.28,-
+"Agencies, brokerages, and other insurance related activities(1)",5242,42.83,45.31,45.86,-,1614.69,1735.37,1756.44,-
+Insurance agencies and brokerages(1),52421,42,44.72,45.23,-,1579.2,1699.36,1727.79,-
+Other insurance related activities(1),52429,44.8,46.83,47.55,-,1715.84,1817,1830.68,-
+Claims adjusting(1),524291,39.09,41.12,40.67,-,1512.78,1550.22,1537.33,-
+Pharmacy benefit management and other third party administration of insurance and pension funds(1),524292,44.25,44.68,45.05,-,1672.65,1720.18,1716.41,-
+All other insurance related activities(1),524298,49.47,54.38,56.36,-,1924.38,2158.89,2231.86,-
+Real estate(1),531,35.23,35.53,35.65,-,1261.23,1268.42,1276.27,-
+Lessors of real estate(1),5311,32.15,33.22,33.35,-,1134.9,1179.31,1177.26,-
+Lessors of residential buildings and dwellings(1),53111,31.21,31.65,31.75,-,1120.44,1123.58,1127.13,-
+Lessors of nonresidential buildings (except miniwarehouses)(1),53112,36.95,38.52,38.92,-,1256.3,1367.46,1362.2,-
+Lessors of miniwarehouses and self-storage units(1),53113,25.96,27.34,27.59,-,893.02,984.24,971.17,-
+Lessors of other real estate property(1),53119,32.37,35.14,35.23,-,1168.56,1205.3,1226,-
+Offices of real estate agents and brokers(1),5312,40.66,38.56,38.69,-,1463.76,1361.17,1369.63,-
+Activities related to real estate(1),5313,34.89,35.8,35.89,-,1252.55,1285.22,1295.63,-
+Real estate property managers(1),53131,32.97,34.15,34.26,-,1183.62,1229.4,1240.21,-
+Residential property managers(1),531311,31.3,32.08,32.12,-,1123.67,1164.5,1165.96,-
+Nonresidential property managers(1),531312,38.35,40.95,41.18,-,1380.6,1429.16,1466.01,-
+Offices of real estate appraisers(1),53132,39.77,38.33,37.34,-,1320.36,1330.05,1310.63,-
+Other activities related to real estate(1),53139,48.56,47.61,47.82,-,1767.58,1747.29,1731.08,-
+Rental and leasing services(1),532,31.79,32.81,33.16,-,1068.14,1095.85,1114.18,-
+Automotive equipment rental and leasing(1),5321,28.92,29.92,30.08,-,754.81,768.94,767.04,-
+Commercial and industrial machinery and equipment rental and leasing(1),5324,37.67,38.64,38.67,-,1525.64,1534.01,1558.4,-
+"Construction, transportation, mining, and forestry machinery and equipment rental and leasing(1)",53241,37.92,39.72,39.88,-,1604.02,1652.35,1682.94,-
+"Office, commercial, and industrial machinery and equipment rental and leasing(1)","53242,9",37.14,37.27,37.43,-,1448.46,1393.9,1429.83,-
+,,,,,,,,,
+Professional and business services,,43.33,44.87,44.97,45.07,1572.88,1642.24,1645.9,1645.06
+"Professional, scientific, and technical services(1)",54,53.34,54.85,54.97,-,1973.58,2034.94,2044.88,-
+Legal services(1),5411,60.7,62.57,62.59,-,2203.41,2265.03,2265.76,-
+Offices of lawyers(1),54111,62.72,64.68,64.74,-,2270.46,2334.95,2337.11,-
+Other legal services(1),54119,38.77,39.67,39.34,-,1461.63,1471.76,1451.65,-
+"Accounting, tax preparation, bookkeeping, and payroll services(1)",5412,42.81,44.53,45.08,-,1494.07,1580.82,1604.85,-
+Offices of certified public accountants(1),541211,45.58,47.29,47.54,-,1627.21,1740.27,1754.23,-
+Payroll services(1),541214,41.46,43.65,44.22,-,1438.66,1532.12,1530.01,-
+"Architectural, engineering, and related services(1)",5413,49.69,51.27,51.64,-,1937.91,1999.53,2008.8,-
+Architectural services(1),54131,48.34,49.25,49.61,-,1836.92,1866.58,1880.22,-
+Landscape architectural services(1),54132,42.06,47.25,48.02,-,1480.51,1729.35,1795.95,-
+Engineering and drafting services(1),"54133,4",52.8,54.34,54.77,-,2064.48,2119.26,2130.55,-
+"Building inspection, surveying, and mapping services(1)","54135,6,7",37.36,39.62,40.14,-,1505.61,1521.41,1561.45,-
+Testing laboratories and services(1),54138,38.43,39.48,39.74,-,1494.93,1594.99,1613.44,-
+Specialized design services(1),5414,39.84,43.48,44.19,-,1569.7,1652.24,1688.06,-
+Interior design services(1),54141,35.81,37.28,36.29,-,1511.18,1360.72,1310.07,-
+Graphic design services(1),54143,43.77,48.16,48.71,-,1545.08,1757.84,1768.17,-
+Computer systems design and related services(1),5415,60.72,62.99,63,-,2319.5,2412.52,2419.2,-
+Custom computer programming services(1),541511,61.92,64.77,64.78,-,2359.15,2487.17,2481.07,-
+Computer systems design services(1),541512,59.88,61.48,61.69,-,2293.4,2348.54,2356.56,-
+Other computer related services(1),541519,58.23,59.52,59.3,-,2259.32,2267.71,2277.12,-
+"Management, scientific, and technical consulting services(1)",5416,51.39,51.07,51.24,-,1891.15,1904.91,1921.5,-
+Management consulting services(1),54161,51.55,50.73,51.02,-,1891.89,1887.16,1908.15,-
+Administrative management and general management consulting services(1),541611,54.57,51.84,51.84,-,1969.98,1912.9,1912.9,-
+Marketing consulting services(1),541613,53.35,54.4,55.09,-,1984.62,2045.44,2076.89,-
+"Process, physical distribution, and logistics consulting services(1)",541614,35.81,37.1,36.87,-,1307.07,1368.99,1390,-
+Scientific research and development services(1),5417,64,66.42,66.74,-,2444.8,2523.96,2549.47,-
+"Research and development in the physical, engineering, and life sciences(1)",54171,64.78,67.36,67.69,-,2494.03,2593.36,2619.6,-
+"Research and development in the physical, engineering, and life sciences, except nanotechnology and biotechnology(1)",541715,62.02,65.16,65.32,-,2449.79,2573.82,2586.67,-
+Research and development in the social sciences and humanities(1),54172,52.86,51.3,51.17,-,1659.8,1595.43,1591.39,-
+"Advertising, public relations, and related services(1)",5418,47.76,49.32,48.51,-,1743.24,1770.59,1731.81,-
+Advertising agencies(1),54181,53.85,55.46,53.44,-,2003.22,2113.03,2009.34,-
+Public relations agencies(1),54182,55.96,56.48,56.59,-,2064.92,2095.41,2099.49,-
+Advertising material distribution and other services related to advertising(1),"54187,9",34.94,37.63,38.01,-,1254.35,1230.5,1239.13,-
+"Other professional, scientific, and technical services(1)",5419,39.11,42.1,41.93,-,1286.72,1389.3,1392.08,-
+Marketing research and public opinion polling(1),54191,49.24,53.12,52.49,-,1688.93,1843.26,1805.66,-
+Veterinary services(1),54194,33.65,35.8,35.56,-,1022.96,1066.84,1073.91,-
+Management of companies and enterprises(1),55,49.67,52.34,52.21,-,1892.43,1994.15,1989.2,-
+Offices of bank and other holding companies(1),"551111,2",56.68,52.54,52.58,-,2148.17,2049.06,2040.1,-
+"Corporate, subsidiary, and regional managing offices(1)",551114,49.29,52.4,52.11,-,1877.95,1996.44,1990.6,-
+Administrative and support and waste management and remediation services(1),56,28.71,29.85,29.98,-,1001.98,1053.71,1055.3,-
+Administrative and support services(1),561,28.19,29.45,29.59,-,972.56,1030.75,1032.69,-
+Office administrative services(1),5611,45.36,45.48,45.85,-,1678.32,1673.66,1687.28,-
+Facilities support services(1),5612,30.22,33.58,33.39,-,1220.89,1400.29,1365.65,-
+Employment services(1),5613,26.61,27.82,27.96,-,896.76,968.14,967.42,-
+Employment placement agencies and executive search services(1),56131,39.9,40.18,39.64,-,1420.44,1442.46,1423.08,-
+Temporary help services(1),56132,24.64,26.13,26.19,-,830.37,914.55,914.03,-
+Professional employer organizations(1),56133,29.3,29.65,29.81,-,946.39,981.42,971.81,-
+Business support services(1),5614,30.59,33.26,32.76,-,1049.24,1160.77,1149.88,-
+Document preparation services(1),56141,25.56,25.42,26.16,-,595.55,571.95,562.44,-
+Telephone call centers(1),56142,27.85,31.92,31.33,-,1010.96,1158.7,1146.68,-
+Business service centers(1),56143,26.33,26.37,26.89,-,921.55,891.31,898.13,-
+Collection agencies(1),56144,28.39,32.9,33.07,-,1039.07,1233.75,1246.74,-
+Travel arrangement and reservation services(1),5615,32.85,35.37,35.77,-,1113.62,1209.65,1194.72,-
+Travel agencies(1),56151,30.01,32.62,32.46,-,1029.34,1200.42,1194.53,-
+Investigation and security services(1),5616,26.46,27.59,27.87,-,955.21,984.96,994.96,-
+"Investigation, guard, and armored car services(1)",56161,23.88,24.95,25.1,-,845.35,873.25,878.5,-
+Security systems services(1),56162,39.54,40.45,41.57,-,1569.74,1597.78,1629.54,-
+Services to buildings and dwellings(1),5617,24.42,25.46,25.85,-,825.4,868.19,876.32,-
+Exterminating and pest control services(1),56171,28.36,29.45,29.64,-,1043.65,1092.6,1075.93,-
+Janitorial services(1),56172,20.94,21.54,21.63,-,619.82,646.2,644.57,-
+Landscaping services(1),56173,26.45,27.89,28.71,-,1015.68,1070.98,1096.72,-
+Other support services(1),5619,30.95,32.11,31.34,-,1061.59,1101.37,1071.83,-
+Packaging and labeling services(1),56191,29.92,29.51,29.62,-,1101.06,1071.21,1095.94,-
+Convention and trade show organizers(1),56192,41.77,47.99,46.58,-,1441.07,1622.06,1495.22,-
+All other support services(1),56199,28.25,28.71,28.14,-,943.55,976.14,951.13,-
+Waste management and remediation services(1),562,35.78,35.32,35.24,-,1470.56,1472.84,1476.56,-
+Waste collection(1),5621,31.43,32.09,32.33,-,1367.21,1408.75,1406.36,-
+Waste treatment and disposal(1),5622,41.92,39.18,38.62,-,1810.94,1645.56,1633.63,-
+Remediation and other waste management services(1),5629,37.3,37.13,37.11,-,1391.29,1459.21,1469.56,-
+,,,,,,,,,
+Private education and health services,,35.01,35.81,35.82,35.91,1151.83,1170.99,1174.9,1174.26
+Health care and social assistance(1),62,35.2,36.19,36.19,-,1158.08,1183.41,1187.03,-
+Health care(1)(3),"621,2,3",38.31,39.36,39.33,-,1287.22,1314.62,1313.62,-
+Ambulatory health care services(1),621,39.66,40.83,40.8,-,1269.12,1290.23,1293.36,-
+Offices of physicians(1),6211,49.02,50.75,50.4,-,1671.58,1720.43,1723.68,-
+Offices of physicians (except mental health specialists)(1),621111,49.5,51.36,50.95,-,1687.95,1735.97,1737.4,-
+"Offices of physicians, mental health specialists(1)",621112,35.41,33.54,34.44,-,1193.32,1240.98,1277.72,-
+Offices of dentists(1),6212,40.24,41.42,41.39,-,1158.91,1176.33,1171.34,-
+Offices of other health practitioners(1),6213,33.26,33.96,33.96,-,967.87,971.26,974.65,-
+Offices of chiropractors(1),62131,29.39,28.46,28.48,-,796.47,768.42,757.57,-
+Offices of optometrists(1),62132,29.19,30.78,30.19,-,934.08,972.65,987.21,-
+Offices of mental health practitioners (except physicians)(1),62133,34.2,34.67,34.05,-,919.98,953.43,946.59,-
+"Offices of physical, occupational and speech therapists, and audiologists(1)",62134,35.07,35.54,35.65,-,1020.54,980.9,973.25,-
+Offices of all other health practitioners(1),62139,33.32,36.01,36.45,-,1056.24,1137.92,1162.76,-
+Outpatient care centers(1),6214,39.36,39.96,40.24,-,1361.86,1346.65,1364.14,-
+Outpatient mental health and substance abuse centers(1),62142,30.88,31.75,31.7,-,1096.24,1108.08,1112.67,-
+Other outpatient care centers(1),"62141,9",42.92,43.53,44.03,-,1472.16,1445.2,1479.41,-
+Freestanding ambulatory surgical and emergency centers(1),621493,43.06,43.42,44.41,-,1300.41,1298.26,1332.3,-
+Family planning and all other outpatient care centers(1),"621410,98",42.7,43.43,43.97,-,1520.12,1520.05,1547.74,-
+Medical and diagnostic laboratories(1),6215,43.4,42.33,41.74,-,1553.72,1532.35,1510.99,-
+Medical laboratories(1),621511,45.15,43.8,43.37,-,1666.04,1642.5,1617.7,-
+Diagnostic imaging centers(1),621512,37.92,37.23,37.1,-,1277.9,1228.59,1239.14,-
+Home health care services(1),6216,26.54,27.61,27.56,-,761.7,778.6,768.92,-
+Other ambulatory health care services(1),6219,33.27,34.01,34.27,-,1264.26,1299.18,1302.26,-
+Ambulance services(1),62191,28.87,29.67,29.9,-,1140.37,1160.1,1163.11,-
+All other ambulatory health care services(1),62199,37.57,38.16,38.56,-,1367.55,1431,1430.58,-
+Hospitals(1),622,43.3,44.42,44.42,-,1576.12,1612.45,1612.45,-
+General medical and surgical hospitals(1),6221,43.67,44.83,44.81,-,1593.96,1631.81,1635.57,-
+Psychiatric and substance abuse hospitals(1),6222,33.66,34.73,34.51,-,1144.44,1215.55,1214.75,-
+"Specialty, except psychiatric and substance abuse, hospitals(1)",6223,41.46,42.38,42.87,-,1525.73,1517.2,1530.46,-
+Nursing and residential care facilities(1),623,25.74,26.46,26.64,-,857.14,883.76,887.11,-
+Skilled nursing care facilities(1),6231,26.8,27.7,27.92,-,871,914.1,912.98,-
+"Residential intellectual and developmental disability, mental health, and substance abuse facilities(1)",6232,25.52,26.11,26.23,-,893.2,924.29,928.54,-
+Residential intellectual and developmental disability facilities(1),62321,23.58,24.23,24.29,-,825.3,867.43,869.58,-
+Residential mental health and substance abuse facilities(1),62322,28.51,29.12,29.22,-,1000.7,1016.29,1013.93,-
+Continuing care retirement communities and assisted living facilities for the elderly(1),6233,24.37,24.78,24.84,-,794.46,795.44,799.85,-
+Continuing care retirement communities(1),623311,25.23,25.38,25.37,-,809.88,799.47,799.16,-
+Assisted living facilities for the elderly(1),623312,23.53,24.21,24.3,-,776.49,789.25,797.04,-
+Other residential care facilities(1),6239,25.2,26.34,26.47,-,927.36,971.95,976.74,-
+Social assistance(1),624,23.09,23.95,24.02,-,706.55,723.29,727.81,-
+Individual and family services(1),6241,23.39,24.23,24.29,-,704.04,719.63,726.27,-
+Child and youth services(1),62411,28.47,30.16,30.4,-,916.73,977.18,991.04,-
+Services for the elderly and persons with disabilities(1),62412,21.69,22.53,22.6,-,637.69,651.12,657.66,-
+Other individual and family services(1),62419,28.71,29.79,29.76,-,950.3,965.2,970.18,-
+"Community food and housing, and emergency and other relief services(1)",6242,27.54,27.9,27.82,-,947.38,973.71,968.14,-
+Community food services(1),62421,24.98,25.73,25.88,-,779.38,854.24,846.28,-
+"Community housing, emergency, and relief services(1)","62422,3",28.18,28.42,28.33,-,991.94,1000.38,1002.88,-
+Vocational rehabilitation services(1),6243,23.11,24.08,24.3,-,758.01,768.15,760.59,-
+Child care services(1),6244,21.19,22.19,22.19,-,659.01,681.23,685.67,-
+,,,,,,,,,
+Leisure and hospitality,,22.4,23.07,23.18,23.28,571.2,590.59,593.41,595.97
+"Arts, entertainment, and recreation(1)",71,28.29,29.71,29.89,-,676.13,710.07,714.37,-
+"Performing arts, spectator sports, and related industries(1)",711,38.17,40.52,40.84,-,992.42,1029.21,1016.92,-
+Performing arts companies(1),7111,35.89,36.73,36.72,-,911.61,874.17,862.92,-
+Spectator sports(1),7112,39.38,40.87,41.74,-,1051.45,1070.79,1076.89,-
+Arts and sports promoters and agents and managers for public figures(1),"7113,4",38.53,40.21,40.15,-,963.25,993.19,943.53,-
+"Independent artists, writers, and performers(1)",7115,40.85,48.01,48.71,-,1250.01,1541.12,1548.98,-
+"Museums, historical sites, and similar institutions(1)",712,29.94,30.72,30.85,-,880.24,915.46,919.33,-
+Museums(1),71211,32.63,33.33,33.76,-,936.48,969.9,965.54,-
+"Historical sites, zoos, botanical gardens, nature parks, and other similar institutions(1)","71212,3,9",26.54,27.17,27.03,-,804.16,831.4,846.04,-
+"Amusement, gambling, and recreation industries(1)",713,24.31,25.53,25.64,-,549.41,584.64,587.16,-
+Amusement parks and arcades(1),7131,21.48,22.49,23.05,-,485.45,521.77,550.9,-
+Gambling industries(1),7132,26.53,27.39,27.48,-,825.08,901.13,915.08,-
+"Casinos, except casino hotels(1)",71321,24.86,25.02,25.19,-,798.01,853.18,864.02,-
+Other gambling industries(1),71329,28.54,30.17,30.39,-,859.05,953.37,960.32,-
+Other amusement and recreation industries(1),7139,24.47,25.83,25.82,-,535.89,568.26,568.04,-
+Golf courses and country clubs(1),71391,25.89,27.35,27.39,-,670.55,708.37,720.36,-
+Skiing facilities(1),71392,30.06,30.65,30.14,-,754.51,747.86,762.54,-
+Marinas(1),71393,28.41,29.53,29.8,-,877.87,939.05,941.68,-
+Fitness and recreational sports centers(1),71394,24.11,25.18,25.32,-,419.51,448.2,443.1,-
+Bowling centers(1),71395,19.23,20.04,20.25,-,438.44,438.88,441.45,-
+All other amusement and recreation industries(1),71399,22.82,24.77,24.61,-,575.06,616.77,610.33,-
+Accommodation and food services(1),72,21.38,21.93,22.03,-,551.6,567.99,568.37,-
+Accommodation(1),721,24.01,24.84,25.03,-,734.71,762.59,768.42,-
+Traveler accommodation(1),7211,24.11,24.91,25.12,-,737.77,769.72,773.7,-
+Hotels (except casino hotels) and motels(1),72111,24.01,24.76,25.01,-,725.1,757.66,760.3,-
+Recreational vehicle (RV) parks and recreational camps(1),7212,23.07,23.99,23.84,-,703.64,695.71,679.44,-
+Food services and drinking places(1),722,20.89,21.36,21.49,-,520.16,538.27,541.55,-
+Special food services(1),7223,24.96,26.19,26.75,-,726.34,785.7,805.18,-
+Food service contractors(1),72231,24.52,25.59,26.22,-,747.86,806.09,823.31,-
+Caterers and mobile food services(1),"72232,3",26.12,27.87,28.13,-,671.28,741.34,756.7,-
+"Drinking places, alcoholic beverages(1)",7224,23.17,23.37,23.61,-,481.94,479.09,488.73,-
+Restaurants and other eating places(1),7225,20.43,20.91,21.03,-,506.66,522.75,525.75,-
+Full-service restaurants(1),722511,22.47,22.88,23,-,570.74,574.29,577.3,-
+Limited-service restaurants(1),722513,18.34,18.77,18.83,-,456.67,474.88,478.28,-
+"Cafeterias, grill buffets, and buffets(1)",722514,19.02,18.97,18.87,-,543.97,534.95,534.02,-
+Snack and nonalcoholic beverage bars(1),722515,19.65,20.09,20.18,-,428.37,443.99,443.96,-
+,,,,,,,,,
+Other services,81,32.37,33.1,33.23,33.36,1035.84,1059.2,1066.68,1067.52
+Repair and maintenance(1),811,30.77,31.74,31.88,-,1147.72,1196.6,1211.44,-
+Automotive repair and maintenance(1),8111,28.75,29.85,29.91,-,1046.5,1086.54,1097.7,-
+Automotive mechanical and electrical repair and maintenance(1),81111,30.19,31,31.21,-,1165.33,1196.6,1207.83,-
+General automotive repair(1),811111,30.55,31.44,31.5,-,1185.34,1216.73,1222.2,-
+Specialized automotive repair(1),811114,27.12,27.47,29.18,-,1006.15,1060.34,1135.1,-
+"Automotive body, paint, interior, and glass repair(1)",81112,32.1,33.59,33.76,-,1197.33,1266.34,1276.13,-
+Other automotive repair and maintenance(1),81119,22.18,23.27,23.19,-,707.54,739.99,755.99,-
+Car washes(1),811192,21.2,21.77,21.73,-,604.2,620.45,645.38,-
+Automotive oil change and lubrication shops and all other automotive repair and maintenance(1),"811191,8",23.58,25.13,24.88,-,884.25,924.78,933,-
+Electronic and precision equipment repair and maintenance(1),8112,37.6,37.99,38.27,-,1485.2,1561.39,1576.72,-
+Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance(1),8113,36.44,36.47,36.77,-,1523.19,1557.27,1581.11,-
+Personal and household goods repair and maintenance(1),8114,26.83,29.76,29.93,-,922.95,1029.7,1029.59,-
+Personal and laundry services(1),812,24.25,25.45,25.5,-,679,707.51,706.35,-
+Personal care services(1),8121,25.24,25.96,26.07,-,641.1,646.4,649.14,-
+"Hair, nail, and skin care services(1)",81211,24.71,25.54,25.5,-,642.46,648.72,645.15,-
+Barber shops and beauty salons(1),"812111,2",26.56,27.99,27.62,-,674.62,674.56,668.4,-
+Nail salons(1),812113,20.17,20.32,20.71,-,558.71,581.15,577.81,-
+Other personal care services(1),81219,27.27,26.98,27.76,-,643.57,642.12,660.69,-
+Death care services(1),8122,27.6,29.03,28.92,-,852.84,882.51,879.17,-
+Drycleaning and laundry services(1),8123,21.78,22.98,23.1,-,764.48,802,806.19,-
+"Drycleaning and laundry services, except coin-operated(1)",81232,19.77,20.39,20.51,-,618.8,640.25,641.96,-
+Other personal services(1),8129,23.15,25.01,24.93,-,632,692.78,693.05,-
+Pet care (except veterinary) services(1),81291,23.28,23.45,23.47,-,588.98,600.32,603.18,-
+Parking lots and garages(1),81293,19.89,20.92,21.36,-,588.74,625.51,630.12,-
+"Religious, grantmaking, civic, professional, and similar organizations(1)",813,37.35,37.66,37.78,-,1180.26,1190.06,1193.85,-
+Grantmaking and giving services(1),8132,54.06,56.89,57.14,-,1892.1,1974.08,1965.62,-
+Grantmaking foundations(1),813211,62.32,66.52,66.87,-,2199.9,2308.24,2327.08,-
+Voluntary health organizations(1),813212,42.97,44.75,45.27,-,1585.59,1619.95,1620.67,-
+Other grantmaking and giving services(1),813219,41.35,42.62,42.07,-,1335.61,1406.46,1400.93,-
+Social advocacy organizations(1),8133,36.22,36.75,36.77,-,1227.86,1245.83,1261.21,-
+Human rights organizations(1),813311,38.27,39.53,39.8,-,1270.56,1272.87,1305.44,-
+"Environment, conservation, wildlife, and other social advocacy organizations(1)","813312,9",35.7,36.11,35.96,-,1217.37,1245.8,1247.81,-
+Civic and social organizations(1),8134,25.85,26.87,26.75,-,548.02,580.39,572.45,-
+"Business, professional, labor, political, and similar organizations(1)",8139,46.97,47.83,48.06,-,1601.68,1626.22,1629.23,-
+Business associations(1),81391,51.48,52.44,51.76,-,1760.62,1803.94,1790.9,-
+Professional organizations(1),81392,59.2,55.7,56.59,-,2184.48,2138.88,2150.42,-
+Labor unions and similar labor organizations(1),81393,51.68,54.13,54.53,-,1772.62,1878.31,1859.47,-
+"Political and other similar organizations (except business, professional, and labor organizations)(1)","81394,9",33.56,35.63,36.22,-,1073.92,1108.09,1140.93,-
