@@ -1,4 +1,4 @@
-## BLS Labor Market SQL Analysis
+# BLS Labor Market SQL Analysis
 SQL analysis of BLS employment and wage data across industries, exploring trends, changes, and correlations using NAICS-based joins.
 
 ## Data
